@@ -31,7 +31,7 @@
     Installation
 </h2>
 <p>
-    To install this module run command <code>go get github.com/hozlucas28/Go-Course-2023</code> in your Go project. Then, just add <code>import (figures "github.com/hozlucas28/Go-Course-2023")</code> where you want to use it. That's all! Now, check out <a href="#----content" target="_blank">available content</a>.
+    To install this module run command <code>go get github.com/hozlucas28/Go-Module-Practice-2023</code> in your Go project. Then, just add <code>import (figures "github.com/hozlucas28/Go-Module-Practice-2023")</code> where you want to use it. That's all! Now, check out <a href="#----content" target="_blank">available content</a>.
 </p>
 
 <p>
