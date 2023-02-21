@@ -75,7 +75,7 @@
 			<th>Example</th>
 		</tr>
 		<tr>
-			<td>FigureLenghts(&&lt;circle/square&gt; object)</td>
+			<td>FigureLenghts(&&lt;circle/square object&gt;)</td>
 			<td>Print the radio/side length, area and perimeter of the circle/square (argument) that you sent to it.</td>
             <td><code>figures.FigureLenghts(&circle)</code></td>
 		</tr>
