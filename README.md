@@ -109,6 +109,12 @@
             <a href="https://github.com/hozlucas28/Go-Course-2023" target="_blank">Repository of Go course</a>
         </li>
         <li>
+            <a href="https://github.com/hozlucas28/Go-Web-Course-2023" target="_blank">Repository of Go web course</a>
+        </li>
+        <li>
+            <a href="https://github.com/hozlucas28/Java-Course-2023" target="_blank">Repository of Java course</a>
+        </li>
+        <li>
             <a href="https://github.com/hozlucas28/API-Rest-Express-Course-2022" target="_blank">Repository of API REST - Express course</a>
         </li>
     </ul>
